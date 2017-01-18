@@ -1,4 +1,4 @@
-<H1> High Perofrmance Computing Competition </H1>
+<H1> High Performance Computing Competition </H1>
 <H3> Repository for Annual High Performance Computing Competition at Universirty of Tulsa, Oklahoma </H3>
 Weblink: http://www.greatplains.net/news/firstannualoklahomahighperformancecomputingcompetition
 
